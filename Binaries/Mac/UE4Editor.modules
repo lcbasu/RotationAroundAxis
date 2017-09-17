@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3450819,
+	"CompatibleChangelist" : 3299760,
+	"BuildId" : "5af5a7ef-b525-44af-9169-f5cba3da4401",
+	"Modules" : 
+	{
+		"MyProject2" : "UE4Editor-MyProject2-8421.dylib"
+	}
+}
